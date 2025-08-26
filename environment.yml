@@ -1,4 +1,4 @@
-name: japan_imaging
+name: gnss_rep
 channels:
   - conda-forge
 dependencies:
@@ -33,4 +33,5 @@ dependencies:
   - polars
   - seaborn
   - pip
+    - pysindy
 
