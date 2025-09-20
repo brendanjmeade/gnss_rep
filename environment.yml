@@ -11,27 +11,13 @@ dependencies:
   - pandas
   - jupyterlab
   - ipympl
-  - meshio
-  - cloudpickle
   - pytest
-  - addict
   - tqdm
   - h5py
   - colorcet
   - lxml
   - rich
-  - cvxpy
-  - cvxopt
-  - compilers
-  - fortran-compiler
-  - cutde
-  - ghostscript
-  - spherical-geometry
-  - loguru
-  - pygmt
-  - gmsh
-  - polars
-  - seaborn
   - pip
+  - pip:
     - pysindy
 
